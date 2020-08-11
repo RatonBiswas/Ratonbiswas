@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   <a href="https://jquery.com/">
     <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a> 
-  <a href="https://materializecss.com/">
+  
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
-  </a>
+  
   <a href="https://nodejs.org/en/docs/">
     <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a>  

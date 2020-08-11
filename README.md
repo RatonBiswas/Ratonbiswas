@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center"> Hi I Am Raton BIswas 👋 </h1>
+<p align="center"> Hello! I'm Raton, a passionate software engineer. I develop web applications. My basic skill is based on JavaScript,<a href="https://nodejs.org/en/docs/" target="blank>Nodejs</a>,<a href="https://expressjs.com/en/api.html" target="blank>Expressjs</a> and I love to do most of the things using JavaScript. I love to make the web more open to the world.I'm currently learning <a href="https://reactjs.org/docs/getting-started.html" target="blank>React</a>.I am currently pursuing my bachelor's degree at Daffodil International University.👌👌 </p>
+<img align="right" src="https://i.pinimg.com/564x/f1/57/e2/f157e2dbb1a95c5d09ba4a376d5b9acc.jpg" height="300" width="300">
 
-<!--
-**RatonBiswas/Ratonbiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Article stories and Talent hunting(Team Work) using nodejs,mongoDB and other tools
+- 🌱 I’m currently learning ... Nodejs and react
+- 👯 I’m looking to collaborate on ... Nodejs
+- 🤔 I’m looking for help with ... github
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/raton-biswas-84104b152/)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am half finish.😁😂
 -->
+
+### - Languages and Tools...
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>

@@ -1,5 +1,7 @@
 <h1 align="center"> Hi I Am Raton BIswas 👋 </h1>
-<p align="center"> Hello! I'm Raton, a passionate software engineer. I develop web applications. My basic skill is based on JavaScript,<a href="https://nodejs.org/en/docs/" target="blank>Nodejs</a>,<a href="https://expressjs.com/en/api.html" target="blank>Expressjs</a> and I love to do most of the things using JavaScript. I love to make the web more open to the world.I'm currently learning <a href="https://reactjs.org/docs/getting-started.html" target="blank>React</a>.I am currently pursuing my bachelor's degree at Daffodil International University.👌👌 </p>
+
+<p align="center"> Hello! I'm Raton, a passionate software engineer. I develop web applications. My basic skill is based on JavaScript,<a href="https://nodejs.org/en/docs/">Nodejs</a> , <a href="https://expressjs.com/en/api.html"> Expressjs </a> and I love to do most of the things using JavaScript. I love to make the web more open to the world.I'm currently learning <a href="https://reactjs.org/docs/getting-started.html"> React </a>.I am currently pursuing my bachelor's degree at Daffodil International University.👌👌 </p>
+
 <img align="right" src="https://i.pinimg.com/564x/f1/57/e2/f157e2dbb1a95c5d09ba4a376d5b9acc.jpg" height="300" width="300">
 
 

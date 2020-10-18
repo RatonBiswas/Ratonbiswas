@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Article stories and Talent hunting(Team Work) using nodejs,mongoDB and other tools
+- 🔭 I’m currently working on ... learning React and Course Allocation(Team Work) using nodejs,mongoDB and other tools
 - 🌱 I’m currently learning ... Nodejs and react
 - 👯 I’m looking to collaborate on ... Nodejs
 - 🤔 I’m looking for help with ... github

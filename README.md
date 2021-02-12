@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... learning React and Course Allocation(Team Work) using nodejs,mongoDB and other tools
+- 🔭 I’m currently working on ... learning React and Publication(Team Work) using nodejs,mongoDB and other tools
 - 🌱 I’m currently learning ... Nodejs and react
 - 👯 I’m looking to collaborate on ... Nodejs
 - 🤔 I’m looking for help with ... github
@@ -31,3 +31,18 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
    
 </p>
+
+### Tools I use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatonBiswas&layout=compact)](https://github.com/RatonBiswas/github-readme-stats)
+  
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=RatonBiswas&color=ff69b4&style=plastic)
